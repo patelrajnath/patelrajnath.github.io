@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+![_config.yml]({{ site.baseurl }}/images/config.png)
 ---
 
 Some information about you!
