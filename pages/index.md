@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /index/
+permalink: /index.html
 ---
 
 Some information about you!
