@@ -4,7 +4,7 @@ title: Blogs
 permalink: /blogs/
 ---
 
-# Transformer Model: Self Attentios: Implementation with In-Depth Details
+### Transformer Model: Self Attentios: Implementation with In-Depth Details
 
 #### Implementation
 Following is the basic implementation of Self-Attention using Pytorch. 
