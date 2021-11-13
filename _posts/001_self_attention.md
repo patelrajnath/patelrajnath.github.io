@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogs
+title: Transformer Model: Self Attentios: Implementation with In-Depth Details
 permalink: /blogs/001/
 ---
 
