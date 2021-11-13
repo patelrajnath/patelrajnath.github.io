@@ -4,7 +4,7 @@ title: About
 permalink: /index.html
 ---
 
-### Raj Nath Patel
+## Raj Nath Patel
 
 **Research Interests**: I am interested in neural/statistical machine translation/transliteration, 
 Neural/statistical language modeling, quality evaluation and estimation, part-of-speech tagging, 
