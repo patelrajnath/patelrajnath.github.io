@@ -9,3 +9,5 @@ Gemfile.lock
 node_modules
 package.json
 .idea
+venv
+0.1.0
