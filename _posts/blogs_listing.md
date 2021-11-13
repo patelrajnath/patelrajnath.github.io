@@ -5,4 +5,5 @@ permalink: /blogs/
 ---
 
 ### Recent Blogs
-[Transformer Model: Self Attentios: Implementation with In-Depth Details](![_config.yml]({{ site.baseurl }}/blogs/001))
+
+[comment]: <> ([Transformer Model: Self Attentios: Implementation with In-Depth Details]&#40;![_config.yml]&#40;{{ site.baseurl }}/blogs/001&#41;&#41;)
