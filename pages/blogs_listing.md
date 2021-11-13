@@ -4,8 +4,8 @@ title: Blogs
 permalink: /blogs/
 ---
 
-### Recent Blogs
+# Recent Blogs
 {% for post in site.posts %}
-[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{{ post.excerpt }}
+## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+ {{ post.excerpt }}
 {% endfor %}

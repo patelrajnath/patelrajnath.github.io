@@ -3,9 +3,7 @@ layout: post
 title: Transformer Model - Self Attentios - Implementation with In-Depth Details
 ---
 
-### Transformer Model: Self Attentios: Implementation with In-Depth Details
-
-#### Implementation
+## Implementation
 Following is the basic implementation of Self-Attention using Pytorch. 
 The main goal of this implementation is to make it easier to understand that how the 
 attention score is computed and is used on values to generate the final output. 
