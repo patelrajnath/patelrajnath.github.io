@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transformer Model - Self Attentios - Implementation with In-Depth Details
+title: Transformer Model - Self Attention - Implementation with In-Depth Details
 ---
 
 ## Implementation
