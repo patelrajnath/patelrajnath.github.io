@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Blogs
-permalink: /blogs/
+
+[comment]: <> (title: Blogs)
+
+[comment]: <> (permalink: /blogs/)
 ---
 
 ### Recent Blogs
