@@ -1,9 +1,7 @@
 ---
-layout: default
-
-[comment]: <> (title: Blogs)
-
-[comment]: <> (permalink: /blogs/)
+layout: post
+title: Blogs
+permalink: /blogs/
 ---
 
 ### Recent Blogs
