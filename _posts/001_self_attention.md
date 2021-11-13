@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blogs
-permalink: /blogs/001
+permalink: /blogs/001/
 ---
 
 ### Transformer Model: Self Attentios: Implementation with In-Depth Details
