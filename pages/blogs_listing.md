@@ -10,9 +10,11 @@ permalink: /blogs/
 [Transformer Model: Self Attentios: Implementation with In-Depth Details]({{ site.baseurl }}/blogs/001)
 
 [comment]: <> (![_config.yml]&#40;&#41;)
-{% for post in site.posts %}
 
-[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{{ post.excerpt }}
+[comment]: <> ({% for post in site.posts %})
 
-{% endfor %}
+[comment]: <> ([{{ post.title }}]&#40;{{ site.baseurl }}{{ post.url }}&#41;)
+
+[comment]: <> ({{ post.excerpt }})
+
+[comment]: <> ({% endfor %})
