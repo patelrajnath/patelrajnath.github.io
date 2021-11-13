@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Transformer Model: Self Attentios: Implementation with In-Depth Details
-permalink: /blogs/001/
+title: Transformer Model - Self Attentios - Implementation with In-Depth Details
 ---
 
 ### Transformer Model: Self Attentios: Implementation with In-Depth Details
