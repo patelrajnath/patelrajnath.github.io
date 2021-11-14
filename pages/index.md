@@ -50,6 +50,24 @@ Experience in developing/working with open source projects.
   Suffix Separation and Compound Word Splitting to reduce the morphological divergence 
   between source and target languages. The work resulted in a [long paper](https://aclanthology.org/W14-5102.pdf) and 
   two short papaers ICON papers.
+  
+### Education
+**Master of Science in Computer Science**, University of Allahabad, India, 2009-2011  
+MARKS:74%
+
+**Bachelor of Science in Computer Science**, University of Allahabad, India, 2006-2009  
+MARKS:67%
+
+### Accomplishment & Awards
+**Best System out of 5 participating systems**, using language specific preprocessing, in the workshop on ”Machine Translation in Indian Languages (MTIL) 2017”.  
+
+**Best  Systemout  of 10 participating systems**,  using  Deep  Learning  Models  which includes  Long  Short-Term  Memory  (LSTM)  and  Gated  Recurrent  Unit(GRU),  in  the ”Shared Task on Translation Quality Estimation (phrase level)”,  WMT16,  Association for Computational Linguistics (ACL) 2016.  
+
+**Best Systemout of 3 participating systems**,  using post-editing,  syntactic reordering, and  morphological  word  segmentation,  in  the ”NLP Tools Contest on Statistical Machine Translation in Indian Languages”, International Conference on Natural LanguageProcessing (ICON), 2015.
+
+**2nd Best Systemout of 5 participating systems**, using syntactic reordering, and mor-phological word segmentation, in the”NLP Tools Contest on Statistical Machine Trans-lation in Indian Languages”, International Conference on Natural Language Processing(ICON), 2014.
+
+**2nd Best Systemout of 4 participating systems**, using factored SMT, in the ”Workshopon Reordering for Statistical Machine Translation”, COLING-2012.
 
 ### Contact me
 
