@@ -3,7 +3,6 @@ layout: default
 title: About
 permalink: /about/
 ---
-
 ## Raj Nath Patel
 
 **Research Interests**: I am interested in neural/statistical machine translation/transliteration, 
