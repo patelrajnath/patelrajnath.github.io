@@ -12,6 +12,16 @@ permalink: /papers/
 
 [Semantic Scholar profile](https://www.semanticscholar.org/author/Raj-Nath-Patel/3457270){:target="_blank"}
 
+## 2023
+[AdaSent: Efficient Domain-Adapted Sentence Embeddings for Few-Shot Classification](https://arxiv.org/abs/2311.00408){:target="_blank"}  
+**Raj Nath Patel**, Edward Burgin, Haytham Assem, Sourav Dutta  
+*arXiv preprint*
+
+## 2022
+[CAGE: A Hybrid Framework for Closed-Domain Conversational Agents](){:target="_blank"}  
+**Raj Nath Patel**, Co-authors  
+*IEEE Big Data 2022 Workshop Track*
+
 ## 2021
 [Efficient Multi-Lingual Sentence Classification Framework with Sentence Meta Encoders](){:target="_blank"}  
 **Raj Nath Patel**, Edward Burgin, Haytham Assem, Sourav Dutta  
